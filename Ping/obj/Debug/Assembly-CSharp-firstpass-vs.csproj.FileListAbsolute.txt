@@ -1,0 +1,14 @@
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Pasqui\Documents\Unity\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Pasqui\Documents\Unity\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.pdb
